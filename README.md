@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaxPlayz
-- 👀 I’m interested in Coding, Creating We pages
+- 👀 I’m interested in Coding, Creating Web pages
 
 <!---
 LaxPlayz/LaxPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
